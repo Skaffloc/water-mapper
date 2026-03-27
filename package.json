@@ -1,0 +1,21 @@
+{
+  "name": "water-mapper",
+  "version": "1.0.0",
+  "description": "A personal project to help map out wilderness water sources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skaffloc/water-mapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Skaffloc/water-mapper/issues"
+  },
+  "homepage": "https://github.com/Skaffloc/water-mapper#readme"
+}
