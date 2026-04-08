@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Skaffloc/water-mapper#readme",
   "devDependencies": {
     "supabase": "^2.84.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.102.1"
   }
 }
